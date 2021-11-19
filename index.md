@@ -1,6 +1,6 @@
-## hello
+## FPS devlog
 
-if you are here thet means you probbbly intrested in my indie Fps game
+hello if you are here thet means you probbbly intrested in my indie Fps game
 
 # Day 1
 
@@ -8,8 +8,8 @@ if you are here thet means you probbbly intrested in my indie Fps game
 - added basic guns, shooting and effects.
 - added simple cube with 100hp for testing.
 - added weapon swithcing.
-
 take soms ss :)
+
 ![bean1](https://user-images.githubusercontent.com/94687814/142628359-bff3dac3-9ed9-4fa0-aa2d-7753bc59c921.png)
 ![bean2](https://user-images.githubusercontent.com/94687814/142628366-4656d30f-bace-4412-b84b-7202e3979e2e.png)
 ![bean3](https://user-images.githubusercontent.com/94687814/142628368-9803116d-9cdd-4877-8dbe-1367aeaf3784.png)
