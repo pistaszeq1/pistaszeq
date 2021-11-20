@@ -1,4 +1,4 @@
-## by pistaszeq
+## FPS devlog
 
 hello if you are here thet means you probbbly intrested in my indie Fps game
 
