@@ -2,7 +2,17 @@
 
 hello if you are here thet means you probbbly intrested in my indie Fps game
 
-# Day 1
+# 19.11.2021
+
+- added reloading.
+- added reload animations.
+- added GUI: ammo counter (currently in the gun).
+- all ammo counter (total ammo).
+- adding health counter to the player.
+
+  Today no ss. I'll post them 22.11.2021
+
+# 18.11.2021
 
 - added movment.
 - added basic guns, shooting and effects.
